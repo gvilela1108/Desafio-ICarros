@@ -78,10 +78,10 @@ Para as próximas versões seguem algumas sugestões:
 -> Incrementar a documentação do SWAGGER, se for necessário para deixar mais limpo a documentação pode ser incrementada.
 ```
 ```
--> Observar e se encontrar a possibilidade realizar mais alguns refactorys no código para deixar o código mais limpo
+-> Observar e se encontrar a possibilidade, realizar mais alguns refactorys no código para deixar o código mais limpo
 ```
 ```
--> Observar e se encontrar a possibilidade realizar mais alguns testes unitários no código realizar para garantir melhor funcionamento do sistema
+-> Observar e se encontrar a possibilidade, realizar mais alguns testes unitários no código, para garantir melhor funcionamento do sistema
 ```
 
 ## Autores
