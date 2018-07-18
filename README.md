@@ -57,8 +57,6 @@ Contem as regras dos rests. Na estrutura existe uma classe BaseFacade, esta clas
 ### Repository 
 Criado com o MongoDB existe um método além dos extendidos para realizar uma busca específica o findBySeasonAndRound para buscar os dados pela temporada e pela rodada da corrida.
 
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Testes Unitários
 
 Para o desafio realizei a criação de testes de todas as principais camadas, Testes para o Repository, para o Facade, para as Controllers e para os Endpoints. 
