@@ -4,9 +4,9 @@ API REST JSON para atender a proposta do Desafio
 
 ## DESIGN PATTERNS FACADE
 
-Para o desafio, escolhi o design patterns Facade na estrutura do projeto, pois a ideia que tive foi se em uma proxima versão for adicionado um novo tipo de consulta como por exemplo consulta de corridas de motos apenas adicionaria um novo módulo no sistema.  Basicamente a ideia foi simplificar para permitir uma melhor modularização do sistema.
+Para o desafio, escolhi o design patterns Facade na estrutura do projeto, pois a ideia que tive foi se em uma proxima versão for adicionado um novo tipo de consulta como, por exemplo consulta de corridas de motos, apenas adicionaria um novo módulo no sistema.  Basicamente a ideia foi simplificar para permitir uma melhor modularização do sistema.
 
-Referencia https://www.ateomomento.com.br/facade-padrao-de-projeto/ 
+Referência https://www.ateomomento.com.br/facade-padrao-de-projeto/ 
 
 ## Estrutura do projeto
 
